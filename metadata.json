@@ -1,0 +1,6 @@
+{
+  "name": "PayFam",
+  "description": "A premium family-first accounting and budget tracking app with interactive statistics and charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
